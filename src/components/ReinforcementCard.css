@@ -1,0 +1,30 @@
+.reinforce {
+  margin-top: 1.25rem;
+  padding: 1.1rem 1.2rem;
+  border-radius: 0.9rem;
+  background: linear-gradient(145deg, #fff4e0, #f3ebe0);
+  border: 1px solid rgba(212, 160, 23, 0.4);
+}
+
+.reinforce h2 {
+  margin: 0 0 0.4rem;
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  color: var(--ink);
+}
+
+.reinforce p {
+  margin: 0 0 0.75rem;
+  color: var(--text);
+  line-height: 1.5;
+}
+
+.reinforce ul {
+  margin: 0 0 1rem;
+  padding-left: 1.1rem;
+}
+
+.reinforce a {
+  color: var(--accent-deep);
+  font-weight: 700;
+}
